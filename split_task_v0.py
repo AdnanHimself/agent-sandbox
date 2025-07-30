@@ -1,3 +1,18 @@
+"""
+split_task_v0.py
+-----------------
+
+This is a minimal proof-of-concept agent script.
+
+It takes a user-defined goal and breaks it into 3–7 actionable steps
+using GPT-4o-mini via OpenAI's API.
+
+This is the very first prototype in my personal AI-agent sandbox.
+"""
+
+
+
+
 # Import the 'os' module to access environment variables like your API key
 import os
 
